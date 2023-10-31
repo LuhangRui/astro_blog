@@ -8,8 +8,8 @@ subtitle: '一个热爱生活的程序员'
 description: '我们今夜只谈风月'
 keywords:
 author: 好人二狗
-language: zh
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
